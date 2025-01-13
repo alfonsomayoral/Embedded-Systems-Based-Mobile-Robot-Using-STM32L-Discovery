@@ -1,6 +1,19 @@
 # **STM32L-Discovery Mobile Robot**
 This project implements a two-wheeled mobile robot using an STM32L-Discovery board as its control unit. The robot integrates Bluetooth-based manual control, autonomous obstacle avoidance using an ultrasonic sensor, and speed adjustment through a potentiometer. By leveraging STM32's peripherals such as GPIO, ADC, UART, and timers, the robot achieves precise movement, obstacle detection, and user interaction. The primary goal of the project is to demonstrate the capability of embedded systems to manage real-time hardware interactions in a modular and scalable manner.
 
+### 📷 Hardware Design View
+
+| Side View                                | Front View                                | STM32L-Discovery Board                          |
+|------------------------------------------|-------------------------------------------|-------------------------------------------------|
+| <img src="https://github.com/alfonsomayoral/STM32L-Discovery_Mobile_Robot/blob/main/robot_photos/IMG_4549.JPG" alt="Robot Structure Side View" width="350">       |   <img src="https://github.com/alfonsomayoral/STM32L-Discovery_Mobile_Robot/blob/main/robot_photos/IMG_4330.jpg" alt="Robot Structure Front View" width="440">  |  <img src="https://github.com/alfonsomayoral/STM32L-Discovery_Mobile_Robot/blob/main/robot_photos/STM32L-Discovery-Board.png" alt="Board View" width="300">   |
+
+### 🎥 Robot's Performance Videos
+
+| Video Description           | Link to the Video                |
+|-----------------------------------|---------------------------------|
+| Video Demonstrating the Robot's Whole Performance. | [**Click Here**](https://drive.google.com/file/d/1BmVJM_MyLDHyEqxXn0nouj3BsaVi1MqI/view?usp=drive_link) |
+| Video of the Robot's Stationary Movement Test | [**Click Here**](https://github.com/alfonsomayoral/STM32L-Discovery_Mobile_Robot/blob/main/robot_photos/Video_Testing_Robot.mp4) |
+
 ---
 
 ## **📋 Table of Contents**
