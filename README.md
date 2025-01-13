@@ -1,4 +1,12 @@
 # **STM32L-Discovery Mobile Robot**
+
+[![C++](https://img.shields.io/badge/Language-C++-blue)](https://isocpp.org/)  
+[![Microcontroller](https://img.shields.io/badge/Microcontroller-STM32L--Discovery-brightgreen)](https://www.st.com/en/evaluation-tools/32l152cdicovery.html)  
+[![Libraries](https://img.shields.io/badge/Libraries-HAL%20(ST%20HAL%20Library)-orange)](https://www.st.com/en/embedded-software/stm32cube-mcu-packages.html)  
+[![IDE](https://img.shields.io/badge/IDE-STM32CubeIDE-red)](https://www.st.com/en/development-tools/stm32cubeide.html)  
+[![Features](https://img.shields.io/badge/Features-Bluetooth%2C%20Ultrasonic%20Sensor%2C%20PWM%2C%20ADC-yellow)](#)  
+[![Status](https://img.shields.io/badge/Status-Complete-brightgreen)](#)
+
 This project implements a two-wheeled mobile robot using an STM32L-Discovery board as its control unit. The robot integrates Bluetooth-based manual control, autonomous obstacle avoidance using an ultrasonic sensor, and speed adjustment through a potentiometer. By leveraging STM32's peripherals such as GPIO, ADC, UART, and timers, the robot achieves precise movement, obstacle detection, and user interaction. The primary goal of the project is to demonstrate the capability of embedded systems to manage real-time hardware interactions in a modular and scalable manner.
 
 ### 📷 Hardware Design View
