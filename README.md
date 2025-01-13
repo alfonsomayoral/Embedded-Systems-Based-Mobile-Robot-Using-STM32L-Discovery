@@ -21,7 +21,7 @@ This project implements a two-wheeled mobile robot using an STM32L-Discovery boa
    - 💡 [Key Features](#-key-features)
 - 🛠  [Implementation Details](#-implementation-details)
    - 💾 [Components](#-components)
-   - ⚙️ [Peripheral Configuration and Functionality](#-peripheral-configuration-and-functionality)
+   - 🔧 [Peripheral Configuration and Functionality](#-peripheral-configuration-and-functionality)
    - 🔄 [Program Flow](#-program-flow)
    - 📊 [Flowchart Representation](#-flowchart-representation)
 - 📌 [How to Use](#-how-to-use)
@@ -87,7 +87,8 @@ Microprocessor technology has revolutionized modern embedded systems by enabling
 
 --- 
 
-### ⚙️ **Peripheral Configuration and Functionality**
+
+### 🔧 **Peripheral Configuration and Functionality**
 
 1. **Timers**  
    - **TIM2**:  
