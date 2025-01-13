@@ -21,7 +21,6 @@ This project implements a two-wheeled mobile robot using an STM32L-Discovery boa
    - 💡 [Key Features](#-key-features)
 - 🛠  [Implementation Details](#-implementation-details)
    - 💾 [Components](#-components)
-   - ⚙️ [Peripheral Configuration and Functionality](#-peripheral-configuration-and-functionality)
    - 🔄 [Program Flow](#-program-flow)
    - 📊 [Flowchart Representation](#-flowchart-representation)
 - 📌 [How to Use](#-how-to-use)
